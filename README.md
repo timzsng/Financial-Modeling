@@ -1,6 +1,6 @@
 # Financial-Modeling
 # Hello!
-Welcome to the repo put together in an effort to learn how to navigate github and keep track of ongoing projects.
+Welcome to my repo put together in an effort to learn how to navigate github and keep track of ongoing projects.
 
 **CryptoExploratoryNotebook.ipynb:**
   Reads the following kaggle files:
