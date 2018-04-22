@@ -1,14 +1,13 @@
 # Financial-Modeling
-#H1 Hello!
-Welcome to the repo put together in an effort to learn 
-how to navigate github and keep track of ongoing projects.
+# Hello!
+##Welcome to the repo put together in an effort to learn how to navigate github and keep track of ongoing projects.
 
-<b>CryptoExploratoryNotebook.ipynb:</b>
+###CryptoExploratoryNotebook.ipynb:
   Reads the following kaggle files:
     - consolidated_coin_data.csv
     - cryptocurrency-financial-data.zip	  
 
-MonteCarlo.ipynb:
+###MonteCarlo.ipynb:
   This is a monte carlo simulation implemented in Python 3. 
   The model currently takes in expected return and volatility for parameters
     and forecasts the expected ending value of a given financial asset.
